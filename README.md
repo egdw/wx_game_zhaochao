@@ -9,9 +9,9 @@
 注意电脑上需要安装好opencv并且安装好opencv_python,然后才可以使用
 
 ```
-pip install --upgrade setuptools
-pip install numpy Matplotlib
-pip install opencv-python
+pip3 install --upgrade setuptools
+pip3 install numpy Matplotlib
+pip3 install opencv-python
 # 以上是pip安装opencv-python的方法
 # 电脑上还需要安装opencv的库才可以使用
 ```
