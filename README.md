@@ -30,7 +30,7 @@ adb pull /sdcard/autodect.png .
 3. 截取图片计算区别点
   保存坐标中心点
 
-4. 用 ADB 工具点击屏幕蓄力一跳
+4. 用 ADB 工具点击屏幕
 ```shell
 adb input tap x y
 ```
